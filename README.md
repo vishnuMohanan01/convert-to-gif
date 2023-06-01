@@ -18,3 +18,7 @@ convert-to-gif -i ~/Desktop/input.mov -o output.gif
 # Use -t flag for specifying the length of output gif
 convert-to-gif -i ~/Desktop/input.mov -o output.gif -t 4
 ```
+
+## Sample gif
+
+![Sample converted gif](image_url)
