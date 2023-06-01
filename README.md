@@ -21,4 +21,4 @@ convert-to-gif -i ~/Desktop/input.mov -o output.gif -t 4
 
 ## Sample gif
 
-![Sample converted gif](image_url)
+![Sample converted gif](https://github.com/vishnuMohanan01/convert-to-gif/blob/main/assets/output.gif)
